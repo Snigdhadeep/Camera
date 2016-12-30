@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "188932888812",
+    "firebase_url": "https://pictureupload-874ec.firebaseio.com",
+    "project_id": "pictureupload-874ec",
+    "storage_bucket": "pictureupload-874ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188932888812:android:70c50ca19190e577",
+        "android_client_info": {
+          "package_name": "com.techpenta.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188932888812-p8sc8nsfottg8upp142g8mka172pdfnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpenta.camera",
+            "certificate_hash": "760DF53D926621799B303CC4F03FAC948552154B"
+          }
+        },
+        {
+          "client_id": "188932888812-usm3dmikf4t7chio7rcp6ajamil5k6l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA07iVsL2Yz0XytfO2bSqMSmePbQmxmM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188932888812-usm3dmikf4t7chio7rcp6ajamil5k6l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
